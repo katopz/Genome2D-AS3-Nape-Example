@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Genome2D-AS3-Nape-Example</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.flexbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.project.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformasnature</nature>
+		<nature>com.adobe.flexide.project.multiplatform.multiplatformnature</nature>
+		<nature>com.adobe.flexbuilder.project.apollonature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] Genome2D-AS3-src</name>
+			<type>2</type>
+			<location>D:/forked/Genome2D-AS3/src</location>
+		</link>
+		<link>
+			<name>[source path] Genome2D-Nape-src</name>
+			<type>2</type>
+			<location>D:/forked/Genome2D-Nape/src</location>
+		</link>
+		<link>
+			<name>[source path] assets</name>
+			<type>2</type>
+			<location>D:/forked/Genome2D-Nape/examples/assets</location>
+		</link>
+		<link>
+			<name>[source path] examples</name>
+			<type>2</type>
+			<location>D:/forked/Genome2D-Nape/examples</location>
+		</link>
+	</linkedResources>
+</projectDescription>
