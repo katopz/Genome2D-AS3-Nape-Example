@@ -20,4 +20,4 @@ Required
 Note
 ---
 * This is hack and slash to make it work, don't expect production quality.
-* If this save your time please feed my [cat](http://instagram.com/katopz) right [here](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40sleepydesign%2ecom&item_name=sleepydesign&no_shipping=0&no_note=1&tax=0&currency_code=USD&charset=UTF%2d8) or [here](https://itunes.apple.com/th/app/meaning/id666957022?mt=8)
+* If this save your time please feed my [cat](http://instagram.com/katopz) right [here](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40gmail%2ecom&lc=TH&item_name=tuna&item_number=tuna&amount=19%2e00&currency_code=USD&button_subtype=services&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted) or [here](https://itunes.apple.com/th/app/meaning/id666957022?mt=8)
